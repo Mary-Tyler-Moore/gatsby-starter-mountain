@@ -6,14 +6,14 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'MDX WP',
-    description: 'It is a WP with MDX blog ',
-    keywords: ['GatsbyJs', 'React', 'theme-ui'],
-    siteURL: 'https://gatsby-starter-mountain.netlify.com', // No trailing slash allowed!
+    title: 'Adam Tsang',
+    description: 'BUSINESS AS USUAL ',
+    keywords: ['hustler', 'creative', 'businessman'],
+    siteURL: 'https://adam-tsang.netlify.com', // No trailing slash allowed!
     siteImage: '/preview.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@CArtezan',
+    twitterUsername: '@Mary-Tyler-Moore9',
     author: {
-      name: 'Cesar Artezan'
+      name: 'Mary-Tyler-Moore'
     }
   },
   plugins: [
