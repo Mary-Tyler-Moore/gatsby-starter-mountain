@@ -69,8 +69,8 @@ module.exports = {
       options: {
         // Requiered
         sourceWordpress: {
-          sourcePost: true,
-          sourcePage: true
+          sourcePost: false,
+          sourcePage: false
         },
         // Requiered
         sourceMdxPosts: true,
