@@ -9,7 +9,7 @@ module.exports = {
     title: 'Adam Tsang',
     description: 'BUSINESS AS USUAL ',
     keywords: ['hustler', 'creative', 'businessman'],
-    siteURL: 'https://adam-tsang.netlify.com', // No trailing slash allowed!
+    siteURL: 'https://adamtsang.netlify.app', // No trailing slash allowed!
     siteImage: '/preview.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Mary-Tyler-Moore9',
     author: {
@@ -69,8 +69,8 @@ module.exports = {
       options: {
         // Requiered
         sourceWordpress: {
-          sourcePost: false,
-          sourcePage: false
+          sourcePost: true,
+          sourcePage: true
         },
         // Requiered
         sourceMdxPosts: true,
